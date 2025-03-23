@@ -78,3 +78,16 @@ body.dark {
   --text: #f0f0f0;
   --card: #2e2e2e;
 }
+
+.subtitle {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 25px;
+  color: var(--text);
+}
+
+.subtext {
+  font-weight: 400;
+  font-size: 0.95rem;
+  opacity: 0.85;
+}
