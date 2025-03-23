@@ -1,4 +1,4 @@
-/* 🌿 Grundlayout */
+/* Grundlayout */
 body {
   font-family: sans-serif;
   margin: 0;
@@ -13,7 +13,7 @@ body {
   margin: auto;
 }
 
-/* 🔍 Suchfeld */
+/* Suchfeld */
 input {
   width: 100%;
   padding: 10px;
@@ -23,7 +23,7 @@ input {
   border: 1px solid #ccc;
 }
 
-/* 📦 Ergebnis-Box */
+/* Ergebnis-Box */
 .card {
   background: var(--card);
   padding: 15px;
@@ -32,13 +32,20 @@ input {
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
 
-/* 🌞🌙 Toggle */
+/* Darkmode-Toggle Bereich */
+.mode-switch {
+  font-size: 1rem;
+  margin-bottom: 15px;
+  text-align: left;
+}
+
 .toggle {
   font-size: 1.5rem;
   cursor: pointer;
   user-select: none;
   margin-top: 5px;
-  display: inline-flex;   /* ✅ wichtig: horizontale Ausrichtung */
+  display: flex;            /* ← horizontal */
+  flex-direction: row;      /* ← nebeneinander */
   gap: 10px;
 }
 
@@ -52,22 +59,7 @@ body.dark #moon {
   opacity: 1;
 }
 
-/* 🌓 Toggle-Bereich */
-.mode-switch {
-  font-size: 1rem;
-  margin-bottom: 15px;
-  text-align: left;
-}
-.mode-switch label {
-  font-weight: 500;
-  opacity: 0.7;
-}
-.centered {
-  text-align: center;
-  margin-top: 5px;
-}
-
-/* ⚠️ Hinweis */
+/* Hinweis unten */
 .disclaimer {
   font-size: 0.75rem;
   opacity: 0.6;
@@ -75,7 +67,7 @@ body.dark #moon {
   margin-top: 40px;
 }
 
-/* 🎨 Farbmodi */
+/* Farbschema */
 :root {
   --bg: #ffffff;
   --text: #222222;
