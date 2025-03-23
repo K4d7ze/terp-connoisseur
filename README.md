@@ -1,7 +1,7 @@
 # terp-connoisseur
 A searchable terpene database for cannabis strains &amp; medical products. Built for connoisseurs!
 
-Explore strain profiles, effects, flavors, and vaporization temps - all in one clean tool.     
+Explore strain profiles, effects, flavors, and vaporization temps - all in one tool.     
 🌿 Strains  🌸 Terpenes  💨 temps
 
 
