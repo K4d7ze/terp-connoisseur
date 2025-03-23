@@ -38,8 +38,8 @@ input {
   cursor: pointer;
   user-select: none;
   margin-top: 5px;
-  display: flex;
-  gap: 10px; /* Abstand zwischen 🌞 und 🌙 */
+  display: inline-flex;   /* ✅ wichtig: horizontale Ausrichtung */
+  gap: 10px;
 }
 
 .toggle span {
