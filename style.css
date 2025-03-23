@@ -75,3 +75,9 @@ body.dark {
   --text: #f0f0f0;
   --card: #2e2e2e;
 }
+
+.centered {
+  text-align: center;
+  margin-top: 5px;
+}
+
