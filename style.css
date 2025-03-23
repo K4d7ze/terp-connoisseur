@@ -38,15 +38,15 @@ input {
   cursor: pointer;
   user-select: none;
   margin-top: 5px;
-  line-height: 1.8;
   display: flex;
-  flex-direction: column; /* <-- wichtig */
-  align-items: flex-start;
+  gap: 10px; /* Abstand zwischen 🌞 und 🌙 */
 }
+
 .toggle span {
   opacity: 0.4;
   transition: opacity 0.3s;
 }
+
 body.light #sun,
 body.dark #moon {
   opacity: 1;
