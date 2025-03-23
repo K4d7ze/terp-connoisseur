@@ -1,6 +1,6 @@
 const body = document.body;
-body.classList.add("light");
 
+// Toggle Dark/Light Mode
 document.getElementById("modeToggle").addEventListener("click", () => {
   if (body.classList.contains("light")) {
     body.classList.remove("light");
@@ -11,6 +11,7 @@ document.getElementById("modeToggle").addEventListener("click", () => {
   }
 });
 
+// 🔍 Suche
 const searchInput = document.getElementById("searchInput");
 const resultContainer = document.getElementById("results");
 const progress = document.getElementById("progress");
@@ -51,9 +52,11 @@ searchInput.addEventListener("input", () => {
   });
 });
 
-// Fortschritt anzeigen
-progress.innerHTML = `
-  <p>📊 Fortschritt:</p>
-  <p>Produkte: ${window.progressStatus.productsMapped} / ${window.progressStatus.productsTotal}</p>
-  <p>Terpenprofile: ${window.progressStatus.terpeneProfilesLeafly}</p>
-`;
+// 📊 Fortschritt anzeigen
+if (window.progressStatus) {
+  progress.innerHTML = `
+    <p>📊 Fortschritt:</p>
+    <p>Produkte: ${window.progressStatus.productsMapped} / ${window.progressStatus.productsTotal}</p>
+    <p>Terpenprofile: ${window.progressStatus.terpeneProfilesLeafly}</p>
+  `;
+}
