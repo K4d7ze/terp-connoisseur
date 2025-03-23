@@ -38,9 +38,12 @@ input {
   cursor: pointer;
   user-select: none;
   margin-top: 5px;
+  line-height: 1.8;
+  display: flex;
+  flex-direction: column; /* <-- wichtig */
+  align-items: flex-start;
 }
 .toggle span {
-  margin: 0 5px;
   opacity: 0.4;
   transition: opacity 0.3s;
 }
@@ -53,6 +56,7 @@ body.dark #moon {
 .mode-switch {
   font-size: 1rem;
   margin-bottom: 15px;
+  text-align: left;
 }
 .mode-switch label {
   font-weight: 500;
