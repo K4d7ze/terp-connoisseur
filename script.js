@@ -1,6 +1,15 @@
-document.getElementById("modeToggle").onclick = () => {
-  document.body.classList.toggle("dark");
-};
+const body = document.body;
+body.classList.add("light");
+
+document.getElementById("modeToggle").addEventListener("click", () => {
+  if (body.classList.contains("light")) {
+    body.classList.remove("light");
+    body.classList.add("dark");
+  } else {
+    body.classList.remove("dark");
+    body.classList.add("light");
+  }
+});
 
 const searchInput = document.getElementById("searchInput");
 const resultContainer = document.getElementById("results");
