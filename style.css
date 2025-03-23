@@ -6,10 +6,12 @@ body {
   color: var(--text);
   transition: background 0.3s, color 0.3s;
 }
+
 .container {
   max-width: 600px;
   margin: auto;
 }
+
 input {
   width: 100%;
   padding: 10px;
@@ -18,6 +20,7 @@ input {
   border-radius: 8px;
   border: 1px solid #ccc;
 }
+
 .card {
   background: var(--card);
   padding: 15px;
@@ -25,10 +28,31 @@ input {
   border-radius: 12px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
 }
-button {
-  float: right;
-  font-size: 1.2rem;
+
+.toggle {
+  font-size: 1.5rem;
+  cursor: pointer;
+  user-select: none;
+  margin-bottom: 10px;
+  text-align: right;
 }
+.toggle span {
+  margin: 0 5px;
+  opacity: 0.4;
+  transition: opacity 0.3s;
+}
+body.light #sun,
+body.dark #moon {
+  opacity: 1;
+}
+
+.disclaimer {
+  font-size: 0.75rem;
+  opacity: 0.6;
+  text-align: center;
+  margin-top: 40px;
+}
+
 :root {
   --bg: #ffffff;
   --text: #222222;
