@@ -1,6 +1,6 @@
 const body = document.body;
 
-// Toggle Dark/Light Mode
+// 🌞/🌙 Darkmode Toggle
 document.getElementById("modeToggle").addEventListener("click", () => {
   if (body.classList.contains("light")) {
     body.classList.remove("light");
@@ -11,7 +11,7 @@ document.getElementById("modeToggle").addEventListener("click", () => {
   }
 });
 
-// 🔍 Suche
+// 🔍 Suche aktivieren
 const searchInput = document.getElementById("searchInput");
 const resultContainer = document.getElementById("results");
 const progress = document.getElementById("progress");
@@ -25,11 +25,12 @@ const formatTerpenes = (terps) =>
     💫 Wirkung: ${t.effect}</p>
   `).join("<hr>");
 
+// Reagiere auf Suchfeld
 searchInput.addEventListener("input", () => {
-  const query = searchInput.value.toLowerCase();
+  const query = searchInput.value.trim().toLowerCase();
   resultContainer.innerHTML = "";
 
-  if (!query) return;
+  if (!query || !window.strainData) return;
 
   const hits = window.strainData.filter(d =>
     d.strain.toLowerCase().includes(query) ||
@@ -44,15 +45,20 @@ searchInput.addEventListener("input", () => {
   hits.forEach(d => {
     const card = document.createElement("div");
     card.className = "card";
+
+    const nameLine = d.product !== d.strain
+      ? `<p><strong>${d.strain}</strong> (${d.product})</p>`
+      : `<p><strong>${d.strain}</strong></p>`;
+
     card.innerHTML = `
-      <p><strong>${d.strain}</strong> (${d.product})</p>
+      ${nameLine}
       ${formatTerpenes(d.terpene)}
     `;
     resultContainer.appendChild(card);
   });
 });
 
-// 📊 Fortschritt anzeigen
+// 📊 Fortschritt anzeigen (optional)
 if (window.progressStatus) {
   progress.innerHTML = `
     <p>📊 Fortschritt:</p>
