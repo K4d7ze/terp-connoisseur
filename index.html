@@ -12,15 +12,16 @@
 
     <!-- Beschreibung -->
     <p class="subtitle">
-      <strong>A searchable terpene database for cannabis strains &amp; medical products. Built for connoisseurs!</strong><br>
+      <strong>A searchable terpene database for cannabis strains &amp; medical products.</strong><br>
       <span class="subtext">
-        Explore strain profiles, effects, flavors, and vaporization temps – all in one clean tool.<br>
+        Explore strain profiles, effects, flavors, and vaporization temps – all in one tool.<br>
         🌿 Strains &nbsp;&nbsp; 🌸 Terpenes &nbsp;&nbsp; 💨 Temps
       </span>
     </p>
 
     <!-- 🌞🌙 Darkmode-Toggle -->
     <div class="mode-switch">
+      <label for="modeToggle">🌓 Mode:</label>
       <div id="modeToggle" class="toggle">
         <span id="sun">🌞</span>
         <span id="moon">🌙</span>
@@ -30,7 +31,11 @@
     <!-- Suchfeld -->
     <input type="text" id="searchInput" placeholder="🔍 Strain oder Produkt eingeben" />
 
+    <!-- Ergebnisse -->
+    <div id="results"></div>
 
+    <!-- Fortschritt -->
+    <div id="progress"></div>
 
     <!-- Disclaimer -->
     <p class="disclaimer">
@@ -38,7 +43,7 @@
     </p>
   </div>
 
-  <!-- Scripts (Reihenfolge ist wichtig!) -->
+  <!-- Scripts in richtiger Reihenfolge -->
   <script src="data.js"></script>
   <script src="progress.js"></script>
   <script src="script.js"></script>
