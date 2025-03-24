@@ -7,7 +7,7 @@ Explore strain profiles, effects, flavors, and vaporization temps - all in one t
 
 
 # 🌿 Terp Connoisseur
-A smart cannabis strain & terpene explorer.
+A cannabis strain & terpene explorer.
 
 👉 **[Open the app here](https://k4d7ze.github.io/terp-connoisseur/)**  
 
