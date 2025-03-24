@@ -1,5 +1,29 @@
 window.strainData = [
   {
+    "product": "Enua 25/1 SBD CA",
+    "strain": "Strawberry Diesel",
+    "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
+        "name": "Caryophyllene",
+        "boiling": 119,
+        "flavor": "würzig, diesel",
+        "effect": "entspannend"
+      },
+      {
+        "name": "Myrcene",
+        "boiling": 166,
+        "flavor": "erdig",
+        "effect": "beruhigend"
+      }
+    ]
+  },
+  {
     "product": "Tilray 22/1 Indica",
     "strain": "Pink Kush",
     "terpene": [
@@ -24,20 +48,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 2/1 IND",
-    "strain": "Demo Kush 2",
+    "product": "Enua 27/1 Strawberry CA 2",
+    "strain": "Strawberry Diesel #2",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -48,8 +72,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 3/1 IND",
-    "strain": "Demo Kush 3",
+    "product": "Tilray 28/1 Pink CA 3",
+    "strain": "Pink Kush #3",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -72,22 +96,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 4/1 IND",
-    "strain": "Demo Kush 4",
+    "product": "Enua 29/1 Strawberry CA 4",
+    "strain": "Strawberry Diesel #4",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -96,8 +120,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 5/1 IND",
-    "strain": "Demo Kush 5",
+    "product": "Tilray 30/1 Pink CA 5",
+    "strain": "Pink Kush #5",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -120,20 +144,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 6/1 IND",
-    "strain": "Demo Kush 6",
+    "product": "Enua 31/1 Strawberry CA 6",
+    "strain": "Strawberry Diesel #6",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -144,8 +168,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 7/1 IND",
-    "strain": "Demo Kush 7",
+    "product": "Tilray 32/1 Pink CA 7",
+    "strain": "Pink Kush #7",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -168,20 +192,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 8/1 IND",
-    "strain": "Demo Kush 8",
+    "product": "Enua 33/1 Strawberry CA 8",
+    "strain": "Strawberry Diesel #8",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -192,8 +216,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 9/1 IND",
-    "strain": "Demo Kush 9",
+    "product": "Tilray 34/1 Pink CA 9",
+    "strain": "Pink Kush #9",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -216,20 +240,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 10/1 IND",
-    "strain": "Demo Kush 10",
+    "product": "Enua 25/1 Strawberry CA 10",
+    "strain": "Strawberry Diesel #10",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -240,8 +264,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 11/1 IND",
-    "strain": "Demo Kush 11",
+    "product": "Tilray 26/1 Pink CA 11",
+    "strain": "Pink Kush #11",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -264,20 +288,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 12/1 IND",
-    "strain": "Demo Kush 12",
+    "product": "Enua 27/1 Strawberry CA 12",
+    "strain": "Strawberry Diesel #12",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -288,8 +312,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 13/1 IND",
-    "strain": "Demo Kush 13",
+    "product": "Tilray 28/1 Pink CA 13",
+    "strain": "Pink Kush #13",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -312,20 +336,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 14/1 IND",
-    "strain": "Demo Kush 14",
+    "product": "Enua 29/1 Strawberry CA 14",
+    "strain": "Strawberry Diesel #14",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -336,8 +360,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 15/1 IND",
-    "strain": "Demo Kush 15",
+    "product": "Tilray 30/1 Pink CA 15",
+    "strain": "Pink Kush #15",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -360,20 +384,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 16/1 IND",
-    "strain": "Demo Kush 16",
+    "product": "Enua 31/1 Strawberry CA 16",
+    "strain": "Strawberry Diesel #16",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -384,8 +408,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 17/1 IND",
-    "strain": "Demo Kush 17",
+    "product": "Tilray 32/1 Pink CA 17",
+    "strain": "Pink Kush #17",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -408,20 +432,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 18/1 IND",
-    "strain": "Demo Kush 18",
+    "product": "Enua 33/1 Strawberry CA 18",
+    "strain": "Strawberry Diesel #18",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -432,8 +456,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 19/1 IND",
-    "strain": "Demo Kush 19",
+    "product": "Tilray 34/1 Pink CA 19",
+    "strain": "Pink Kush #19",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -456,22 +480,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 20/1 IND",
-    "strain": "Demo Kush 20",
+    "product": "Enua 25/1 Strawberry CA 20",
+    "strain": "Strawberry Diesel #20",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -480,8 +504,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 21/1 IND",
-    "strain": "Demo Kush 21",
+    "product": "Tilray 26/1 Pink CA 21",
+    "strain": "Pink Kush #21",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -504,20 +528,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 22/1 IND",
-    "strain": "Demo Kush 22",
+    "product": "Enua 27/1 Strawberry CA 22",
+    "strain": "Strawberry Diesel #22",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -528,8 +552,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 23/1 IND",
-    "strain": "Demo Kush 23",
+    "product": "Tilray 28/1 Pink CA 23",
+    "strain": "Pink Kush #23",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -552,20 +576,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 24/1 IND",
-    "strain": "Demo Kush 24",
+    "product": "Enua 29/1 Strawberry CA 24",
+    "strain": "Strawberry Diesel #24",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -576,8 +600,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 25/1 IND",
-    "strain": "Demo Kush 25",
+    "product": "Tilray 30/1 Pink CA 25",
+    "strain": "Pink Kush #25",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -600,20 +624,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 26/1 IND",
-    "strain": "Demo Kush 26",
+    "product": "Enua 31/1 Strawberry CA 26",
+    "strain": "Strawberry Diesel #26",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -624,8 +648,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 27/1 IND",
-    "strain": "Demo Kush 27",
+    "product": "Tilray 32/1 Pink CA 27",
+    "strain": "Pink Kush #27",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -648,20 +672,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 28/1 IND",
-    "strain": "Demo Kush 28",
+    "product": "Enua 33/1 Strawberry CA 28",
+    "strain": "Strawberry Diesel #28",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -672,8 +696,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 29/1 IND",
-    "strain": "Demo Kush 29",
+    "product": "Tilray 34/1 Pink CA 29",
+    "strain": "Pink Kush #29",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -696,20 +720,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 30/1 IND",
-    "strain": "Demo Kush 30",
+    "product": "Enua 25/1 Strawberry CA 30",
+    "strain": "Strawberry Diesel #30",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -720,8 +744,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 31/1 IND",
-    "strain": "Demo Kush 31",
+    "product": "Tilray 26/1 Pink CA 31",
+    "strain": "Pink Kush #31",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -744,20 +768,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 32/1 IND",
-    "strain": "Demo Kush 32",
+    "product": "Enua 27/1 Strawberry CA 32",
+    "strain": "Strawberry Diesel #32",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -768,8 +792,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 33/1 IND",
-    "strain": "Demo Kush 33",
+    "product": "Tilray 28/1 Pink CA 33",
+    "strain": "Pink Kush #33",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -792,20 +816,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 34/1 IND",
-    "strain": "Demo Kush 34",
+    "product": "Enua 29/1 Strawberry CA 34",
+    "strain": "Strawberry Diesel #34",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -816,8 +840,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 35/1 IND",
-    "strain": "Demo Kush 35",
+    "product": "Tilray 30/1 Pink CA 35",
+    "strain": "Pink Kush #35",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -840,22 +864,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 36/1 IND",
-    "strain": "Demo Kush 36",
+    "product": "Enua 31/1 Strawberry CA 36",
+    "strain": "Strawberry Diesel #36",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -864,8 +888,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 37/1 IND",
-    "strain": "Demo Kush 37",
+    "product": "Tilray 32/1 Pink CA 37",
+    "strain": "Pink Kush #37",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -888,20 +912,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 38/1 IND",
-    "strain": "Demo Kush 38",
+    "product": "Enua 33/1 Strawberry CA 38",
+    "strain": "Strawberry Diesel #38",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -912,8 +936,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 39/1 IND",
-    "strain": "Demo Kush 39",
+    "product": "Tilray 34/1 Pink CA 39",
+    "strain": "Pink Kush #39",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -936,20 +960,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 40/1 IND",
-    "strain": "Demo Kush 40",
+    "product": "Enua 25/1 Strawberry CA 40",
+    "strain": "Strawberry Diesel #40",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -960,8 +984,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 41/1 IND",
-    "strain": "Demo Kush 41",
+    "product": "Tilray 26/1 Pink CA 41",
+    "strain": "Pink Kush #41",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -984,20 +1008,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 42/1 IND",
-    "strain": "Demo Kush 42",
+    "product": "Enua 27/1 Strawberry CA 42",
+    "strain": "Strawberry Diesel #42",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1008,8 +1032,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 43/1 IND",
-    "strain": "Demo Kush 43",
+    "product": "Tilray 28/1 Pink CA 43",
+    "strain": "Pink Kush #43",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1032,20 +1056,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 44/1 IND",
-    "strain": "Demo Kush 44",
+    "product": "Enua 29/1 Strawberry CA 44",
+    "strain": "Strawberry Diesel #44",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1056,8 +1080,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 45/1 IND",
-    "strain": "Demo Kush 45",
+    "product": "Tilray 30/1 Pink CA 45",
+    "strain": "Pink Kush #45",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1080,20 +1104,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 46/1 IND",
-    "strain": "Demo Kush 46",
+    "product": "Enua 31/1 Strawberry CA 46",
+    "strain": "Strawberry Diesel #46",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1104,8 +1128,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 47/1 IND",
-    "strain": "Demo Kush 47",
+    "product": "Tilray 32/1 Pink CA 47",
+    "strain": "Pink Kush #47",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1128,20 +1152,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 48/1 IND",
-    "strain": "Demo Kush 48",
+    "product": "Enua 33/1 Strawberry CA 48",
+    "strain": "Strawberry Diesel #48",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1152,8 +1176,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 49/1 IND",
-    "strain": "Demo Kush 49",
+    "product": "Tilray 34/1 Pink CA 49",
+    "strain": "Pink Kush #49",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1176,20 +1200,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 50/1 IND",
-    "strain": "Demo Kush 50",
+    "product": "Enua 25/1 Strawberry CA 50",
+    "strain": "Strawberry Diesel #50",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1200,8 +1224,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 51/1 IND",
-    "strain": "Demo Kush 51",
+    "product": "Tilray 26/1 Pink CA 51",
+    "strain": "Pink Kush #51",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1224,20 +1248,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 52/1 IND",
-    "strain": "Demo Kush 52",
+    "product": "Enua 27/1 Strawberry CA 52",
+    "strain": "Strawberry Diesel #52",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1248,8 +1272,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 53/1 IND",
-    "strain": "Demo Kush 53",
+    "product": "Tilray 28/1 Pink CA 53",
+    "strain": "Pink Kush #53",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1272,20 +1296,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 54/1 IND",
-    "strain": "Demo Kush 54",
+    "product": "Enua 29/1 Strawberry CA 54",
+    "strain": "Strawberry Diesel #54",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1296,8 +1320,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 55/1 IND",
-    "strain": "Demo Kush 55",
+    "product": "Tilray 30/1 Pink CA 55",
+    "strain": "Pink Kush #55",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1320,20 +1344,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 56/1 IND",
-    "strain": "Demo Kush 56",
+    "product": "Enua 31/1 Strawberry CA 56",
+    "strain": "Strawberry Diesel #56",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1344,8 +1368,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 57/1 IND",
-    "strain": "Demo Kush 57",
+    "product": "Tilray 32/1 Pink CA 57",
+    "strain": "Pink Kush #57",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1368,22 +1392,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 58/1 IND",
-    "strain": "Demo Kush 58",
+    "product": "Enua 33/1 Strawberry CA 58",
+    "strain": "Strawberry Diesel #58",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -1392,8 +1416,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 59/1 IND",
-    "strain": "Demo Kush 59",
+    "product": "Tilray 34/1 Pink CA 59",
+    "strain": "Pink Kush #59",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1416,20 +1440,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 60/1 IND",
-    "strain": "Demo Kush 60",
+    "product": "Enua 25/1 Strawberry CA 60",
+    "strain": "Strawberry Diesel #60",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1440,8 +1464,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 61/1 IND",
-    "strain": "Demo Kush 61",
+    "product": "Tilray 26/1 Pink CA 61",
+    "strain": "Pink Kush #61",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1464,20 +1488,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 62/1 IND",
-    "strain": "Demo Kush 62",
+    "product": "Enua 27/1 Strawberry CA 62",
+    "strain": "Strawberry Diesel #62",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1488,8 +1512,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 63/1 IND",
-    "strain": "Demo Kush 63",
+    "product": "Tilray 28/1 Pink CA 63",
+    "strain": "Pink Kush #63",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1512,20 +1536,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 64/1 IND",
-    "strain": "Demo Kush 64",
+    "product": "Enua 29/1 Strawberry CA 64",
+    "strain": "Strawberry Diesel #64",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1536,8 +1560,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 65/1 IND",
-    "strain": "Demo Kush 65",
+    "product": "Tilray 30/1 Pink CA 65",
+    "strain": "Pink Kush #65",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1560,20 +1584,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 66/1 IND",
-    "strain": "Demo Kush 66",
+    "product": "Enua 31/1 Strawberry CA 66",
+    "strain": "Strawberry Diesel #66",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1584,8 +1608,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 67/1 IND",
-    "strain": "Demo Kush 67",
+    "product": "Tilray 32/1 Pink CA 67",
+    "strain": "Pink Kush #67",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1608,20 +1632,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 68/1 IND",
-    "strain": "Demo Kush 68",
+    "product": "Enua 33/1 Strawberry CA 68",
+    "strain": "Strawberry Diesel #68",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1632,8 +1656,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 69/1 IND",
-    "strain": "Demo Kush 69",
+    "product": "Tilray 34/1 Pink CA 69",
+    "strain": "Pink Kush #69",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1656,20 +1680,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 70/1 IND",
-    "strain": "Demo Kush 70",
+    "product": "Enua 25/1 Strawberry CA 70",
+    "strain": "Strawberry Diesel #70",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1680,8 +1704,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 71/1 IND",
-    "strain": "Demo Kush 71",
+    "product": "Tilray 26/1 Pink CA 71",
+    "strain": "Pink Kush #71",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1704,20 +1728,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 72/1 IND",
-    "strain": "Demo Kush 72",
+    "product": "Enua 27/1 Strawberry CA 72",
+    "strain": "Strawberry Diesel #72",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1728,8 +1752,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 73/1 IND",
-    "strain": "Demo Kush 73",
+    "product": "Tilray 28/1 Pink CA 73",
+    "strain": "Pink Kush #73",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1752,22 +1776,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 74/1 IND",
-    "strain": "Demo Kush 74",
+    "product": "Enua 29/1 Strawberry CA 74",
+    "strain": "Strawberry Diesel #74",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -1776,8 +1800,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 75/1 IND",
-    "strain": "Demo Kush 75",
+    "product": "Tilray 30/1 Pink CA 75",
+    "strain": "Pink Kush #75",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1800,20 +1824,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 76/1 IND",
-    "strain": "Demo Kush 76",
+    "product": "Enua 31/1 Strawberry CA 76",
+    "strain": "Strawberry Diesel #76",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1824,8 +1848,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 77/1 IND",
-    "strain": "Demo Kush 77",
+    "product": "Tilray 32/1 Pink CA 77",
+    "strain": "Pink Kush #77",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1848,20 +1872,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 78/1 IND",
-    "strain": "Demo Kush 78",
+    "product": "Enua 33/1 Strawberry CA 78",
+    "strain": "Strawberry Diesel #78",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1872,8 +1896,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 79/1 IND",
-    "strain": "Demo Kush 79",
+    "product": "Tilray 34/1 Pink CA 79",
+    "strain": "Pink Kush #79",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1896,20 +1920,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 80/1 IND",
-    "strain": "Demo Kush 80",
+    "product": "Enua 25/1 Strawberry CA 80",
+    "strain": "Strawberry Diesel #80",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1920,8 +1944,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 81/1 IND",
-    "strain": "Demo Kush 81",
+    "product": "Tilray 26/1 Pink CA 81",
+    "strain": "Pink Kush #81",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1944,20 +1968,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 82/1 IND",
-    "strain": "Demo Kush 82",
+    "product": "Enua 27/1 Strawberry CA 82",
+    "strain": "Strawberry Diesel #82",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -1968,8 +1992,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 83/1 IND",
-    "strain": "Demo Kush 83",
+    "product": "Tilray 28/1 Pink CA 83",
+    "strain": "Pink Kush #83",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -1992,20 +2016,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 84/1 IND",
-    "strain": "Demo Kush 84",
+    "product": "Enua 29/1 Strawberry CA 84",
+    "strain": "Strawberry Diesel #84",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2016,8 +2040,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 85/1 IND",
-    "strain": "Demo Kush 85",
+    "product": "Tilray 30/1 Pink CA 85",
+    "strain": "Pink Kush #85",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2040,20 +2064,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 86/1 IND",
-    "strain": "Demo Kush 86",
+    "product": "Enua 31/1 Strawberry CA 86",
+    "strain": "Strawberry Diesel #86",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2064,8 +2088,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 87/1 IND",
-    "strain": "Demo Kush 87",
+    "product": "Tilray 32/1 Pink CA 87",
+    "strain": "Pink Kush #87",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2088,20 +2112,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 88/1 IND",
-    "strain": "Demo Kush 88",
+    "product": "Enua 33/1 Strawberry CA 88",
+    "strain": "Strawberry Diesel #88",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2112,8 +2136,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 89/1 IND",
-    "strain": "Demo Kush 89",
+    "product": "Tilray 34/1 Pink CA 89",
+    "strain": "Pink Kush #89",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2136,22 +2160,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 90/1 IND",
-    "strain": "Demo Kush 90",
+    "product": "Enua 25/1 Strawberry CA 90",
+    "strain": "Strawberry Diesel #90",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -2160,8 +2184,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 91/1 IND",
-    "strain": "Demo Kush 91",
+    "product": "Tilray 26/1 Pink CA 91",
+    "strain": "Pink Kush #91",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2184,20 +2208,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 92/1 IND",
-    "strain": "Demo Kush 92",
+    "product": "Enua 27/1 Strawberry CA 92",
+    "strain": "Strawberry Diesel #92",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2208,8 +2232,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 93/1 IND",
-    "strain": "Demo Kush 93",
+    "product": "Tilray 28/1 Pink CA 93",
+    "strain": "Pink Kush #93",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2232,22 +2256,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 94/1 IND",
-    "strain": "Demo Kush 94",
+    "product": "Enua 29/1 Strawberry CA 94",
+    "strain": "Strawberry Diesel #94",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -2256,8 +2280,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 95/1 IND",
-    "strain": "Demo Kush 95",
+    "product": "Tilray 30/1 Pink CA 95",
+    "strain": "Pink Kush #95",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2280,22 +2304,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 96/1 IND",
-    "strain": "Demo Kush 96",
+    "product": "Enua 31/1 Strawberry CA 96",
+    "strain": "Strawberry Diesel #96",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -2304,8 +2328,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 97/1 IND",
-    "strain": "Demo Kush 97",
+    "product": "Tilray 32/1 Pink CA 97",
+    "strain": "Pink Kush #97",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2328,20 +2352,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 98/1 IND",
-    "strain": "Demo Kush 98",
+    "product": "Enua 33/1 Strawberry CA 98",
+    "strain": "Strawberry Diesel #98",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2352,8 +2376,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 99/1 IND",
-    "strain": "Demo Kush 99",
+    "product": "Tilray 34/1 Pink CA 99",
+    "strain": "Pink Kush #99",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2376,20 +2400,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 100/1 IND",
-    "strain": "Demo Kush 100",
+    "product": "Enua 25/1 Strawberry CA 100",
+    "strain": "Strawberry Diesel #100",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2400,8 +2424,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 101/1 IND",
-    "strain": "Demo Kush 101",
+    "product": "Tilray 26/1 Pink CA 101",
+    "strain": "Pink Kush #101",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2424,20 +2448,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 102/1 IND",
-    "strain": "Demo Kush 102",
+    "product": "Enua 27/1 Strawberry CA 102",
+    "strain": "Strawberry Diesel #102",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2448,8 +2472,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 103/1 IND",
-    "strain": "Demo Kush 103",
+    "product": "Tilray 28/1 Pink CA 103",
+    "strain": "Pink Kush #103",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2472,20 +2496,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 104/1 IND",
-    "strain": "Demo Kush 104",
+    "product": "Enua 29/1 Strawberry CA 104",
+    "strain": "Strawberry Diesel #104",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2496,8 +2520,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 105/1 IND",
-    "strain": "Demo Kush 105",
+    "product": "Tilray 30/1 Pink CA 105",
+    "strain": "Pink Kush #105",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2520,20 +2544,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 106/1 IND",
-    "strain": "Demo Kush 106",
+    "product": "Enua 31/1 Strawberry CA 106",
+    "strain": "Strawberry Diesel #106",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2544,8 +2568,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 107/1 IND",
-    "strain": "Demo Kush 107",
+    "product": "Tilray 32/1 Pink CA 107",
+    "strain": "Pink Kush #107",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2568,20 +2592,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 108/1 IND",
-    "strain": "Demo Kush 108",
+    "product": "Enua 33/1 Strawberry CA 108",
+    "strain": "Strawberry Diesel #108",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2592,8 +2616,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 109/1 IND",
-    "strain": "Demo Kush 109",
+    "product": "Tilray 34/1 Pink CA 109",
+    "strain": "Pink Kush #109",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2616,20 +2640,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 110/1 IND",
-    "strain": "Demo Kush 110",
+    "product": "Enua 25/1 Strawberry CA 110",
+    "strain": "Strawberry Diesel #110",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2640,8 +2664,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 111/1 IND",
-    "strain": "Demo Kush 111",
+    "product": "Tilray 26/1 Pink CA 111",
+    "strain": "Pink Kush #111",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2664,22 +2688,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 112/1 IND",
-    "strain": "Demo Kush 112",
+    "product": "Enua 27/1 Strawberry CA 112",
+    "strain": "Strawberry Diesel #112",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -2688,8 +2712,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 113/1 IND",
-    "strain": "Demo Kush 113",
+    "product": "Tilray 28/1 Pink CA 113",
+    "strain": "Pink Kush #113",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2712,20 +2736,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 114/1 IND",
-    "strain": "Demo Kush 114",
+    "product": "Enua 29/1 Strawberry CA 114",
+    "strain": "Strawberry Diesel #114",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2736,8 +2760,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 115/1 IND",
-    "strain": "Demo Kush 115",
+    "product": "Tilray 30/1 Pink CA 115",
+    "strain": "Pink Kush #115",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2760,20 +2784,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 116/1 IND",
-    "strain": "Demo Kush 116",
+    "product": "Enua 31/1 Strawberry CA 116",
+    "strain": "Strawberry Diesel #116",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2784,8 +2808,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 117/1 IND",
-    "strain": "Demo Kush 117",
+    "product": "Tilray 32/1 Pink CA 117",
+    "strain": "Pink Kush #117",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2808,20 +2832,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 118/1 IND",
-    "strain": "Demo Kush 118",
+    "product": "Enua 33/1 Strawberry CA 118",
+    "strain": "Strawberry Diesel #118",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2832,8 +2856,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 119/1 IND",
-    "strain": "Demo Kush 119",
+    "product": "Tilray 34/1 Pink CA 119",
+    "strain": "Pink Kush #119",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2856,20 +2880,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 120/1 IND",
-    "strain": "Demo Kush 120",
+    "product": "Enua 25/1 Strawberry CA 120",
+    "strain": "Strawberry Diesel #120",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2880,8 +2904,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 121/1 IND",
-    "strain": "Demo Kush 121",
+    "product": "Tilray 26/1 Pink CA 121",
+    "strain": "Pink Kush #121",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2904,20 +2928,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 122/1 IND",
-    "strain": "Demo Kush 122",
+    "product": "Enua 27/1 Strawberry CA 122",
+    "strain": "Strawberry Diesel #122",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2928,8 +2952,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 123/1 IND",
-    "strain": "Demo Kush 123",
+    "product": "Tilray 28/1 Pink CA 123",
+    "strain": "Pink Kush #123",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -2952,20 +2976,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 124/1 IND",
-    "strain": "Demo Kush 124",
+    "product": "Enua 29/1 Strawberry CA 124",
+    "strain": "Strawberry Diesel #124",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -2976,8 +3000,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 125/1 IND",
-    "strain": "Demo Kush 125",
+    "product": "Tilray 30/1 Pink CA 125",
+    "strain": "Pink Kush #125",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3000,20 +3024,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 126/1 IND",
-    "strain": "Demo Kush 126",
+    "product": "Enua 31/1 Strawberry CA 126",
+    "strain": "Strawberry Diesel #126",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3024,8 +3048,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 127/1 IND",
-    "strain": "Demo Kush 127",
+    "product": "Tilray 32/1 Pink CA 127",
+    "strain": "Pink Kush #127",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3048,22 +3072,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 128/1 IND",
-    "strain": "Demo Kush 128",
+    "product": "Enua 33/1 Strawberry CA 128",
+    "strain": "Strawberry Diesel #128",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -3072,8 +3096,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 129/1 IND",
-    "strain": "Demo Kush 129",
+    "product": "Tilray 34/1 Pink CA 129",
+    "strain": "Pink Kush #129",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3096,20 +3120,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 130/1 IND",
-    "strain": "Demo Kush 130",
+    "product": "Enua 25/1 Strawberry CA 130",
+    "strain": "Strawberry Diesel #130",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3120,8 +3144,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 131/1 IND",
-    "strain": "Demo Kush 131",
+    "product": "Tilray 26/1 Pink CA 131",
+    "strain": "Pink Kush #131",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3144,20 +3168,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 132/1 IND",
-    "strain": "Demo Kush 132",
+    "product": "Enua 27/1 Strawberry CA 132",
+    "strain": "Strawberry Diesel #132",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3168,8 +3192,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 133/1 IND",
-    "strain": "Demo Kush 133",
+    "product": "Tilray 28/1 Pink CA 133",
+    "strain": "Pink Kush #133",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3192,20 +3216,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 134/1 IND",
-    "strain": "Demo Kush 134",
+    "product": "Enua 29/1 Strawberry CA 134",
+    "strain": "Strawberry Diesel #134",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3216,8 +3240,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 135/1 IND",
-    "strain": "Demo Kush 135",
+    "product": "Tilray 30/1 Pink CA 135",
+    "strain": "Pink Kush #135",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3240,20 +3264,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 136/1 IND",
-    "strain": "Demo Kush 136",
+    "product": "Enua 31/1 Strawberry CA 136",
+    "strain": "Strawberry Diesel #136",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3264,8 +3288,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 137/1 IND",
-    "strain": "Demo Kush 137",
+    "product": "Tilray 32/1 Pink CA 137",
+    "strain": "Pink Kush #137",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3288,20 +3312,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 138/1 IND",
-    "strain": "Demo Kush 138",
+    "product": "Enua 33/1 Strawberry CA 138",
+    "strain": "Strawberry Diesel #138",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3312,8 +3336,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 139/1 IND",
-    "strain": "Demo Kush 139",
+    "product": "Tilray 34/1 Pink CA 139",
+    "strain": "Pink Kush #139",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3336,20 +3360,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 140/1 IND",
-    "strain": "Demo Kush 140",
+    "product": "Enua 25/1 Strawberry CA 140",
+    "strain": "Strawberry Diesel #140",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3360,8 +3384,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 141/1 IND",
-    "strain": "Demo Kush 141",
+    "product": "Tilray 26/1 Pink CA 141",
+    "strain": "Pink Kush #141",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3384,44 +3408,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 142/1 IND",
-    "strain": "Demo Kush 142",
+    "product": "Enua 27/1 Strawberry CA 142",
+    "strain": "Strawberry Diesel #142",
     "terpene": [
       {
-        "name": "Caryophyllene",
-        "boiling": 119,
-        "flavor": "würzig",
-        "effect": "entspannend"
-      },
-      {
         "name": "Limonene",
         "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
       },
-      {
-        "name": "Myrcene",
-        "boiling": 166,
-        "flavor": "erdig",
-        "effect": "beruhigend"
-      }
-    ]
-  },
-  {
-    "product": "DemoMed 143/1 IND",
-    "strain": "Demo Kush 143",
-    "terpene": [
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3432,8 +3432,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 144/1 IND",
-    "strain": "Demo Kush 144",
+    "product": "Tilray 28/1 Pink CA 143",
+    "strain": "Pink Kush #143",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3456,20 +3456,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 145/1 IND",
-    "strain": "Demo Kush 145",
+    "product": "Enua 29/1 Strawberry CA 144",
+    "strain": "Strawberry Diesel #144",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3480,8 +3480,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 146/1 IND",
-    "strain": "Demo Kush 146",
+    "product": "Tilray 30/1 Pink CA 145",
+    "strain": "Pink Kush #145",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3504,20 +3504,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 147/1 IND",
-    "strain": "Demo Kush 147",
+    "product": "Enua 31/1 Strawberry CA 146",
+    "strain": "Strawberry Diesel #146",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3528,8 +3528,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 148/1 IND",
-    "strain": "Demo Kush 148",
+    "product": "Tilray 32/1 Pink CA 147",
+    "strain": "Pink Kush #147",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3552,20 +3552,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 149/1 IND",
-    "strain": "Demo Kush 149",
+    "product": "Enua 33/1 Strawberry CA 148",
+    "strain": "Strawberry Diesel #148",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3576,8 +3576,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 150/1 IND",
-    "strain": "Demo Kush 150",
+    "product": "Tilray 34/1 Pink CA 149",
+    "strain": "Pink Kush #149",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3600,22 +3600,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 151/1 IND",
-    "strain": "Demo Kush 151",
+    "product": "Enua 25/1 Strawberry CA 150",
+    "strain": "Strawberry Diesel #150",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -3624,8 +3624,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 152/1 IND",
-    "strain": "Demo Kush 152",
+    "product": "Tilray 26/1 Pink CA 151",
+    "strain": "Pink Kush #151",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3648,20 +3648,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 153/1 IND",
-    "strain": "Demo Kush 153",
+    "product": "Enua 27/1 Strawberry CA 152",
+    "strain": "Strawberry Diesel #152",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3672,8 +3672,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 154/1 IND",
-    "strain": "Demo Kush 154",
+    "product": "Tilray 28/1 Pink CA 153",
+    "strain": "Pink Kush #153",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3696,20 +3696,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 155/1 IND",
-    "strain": "Demo Kush 155",
+    "product": "Enua 29/1 Strawberry CA 154",
+    "strain": "Strawberry Diesel #154",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3720,8 +3720,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 156/1 IND",
-    "strain": "Demo Kush 156",
+    "product": "Tilray 30/1 Pink CA 155",
+    "strain": "Pink Kush #155",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3744,20 +3744,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 157/1 IND",
-    "strain": "Demo Kush 157",
+    "product": "Enua 31/1 Strawberry CA 156",
+    "strain": "Strawberry Diesel #156",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3768,8 +3768,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 158/1 IND",
-    "strain": "Demo Kush 158",
+    "product": "Tilray 32/1 Pink CA 157",
+    "strain": "Pink Kush #157",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3792,20 +3792,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 159/1 IND",
-    "strain": "Demo Kush 159",
+    "product": "Enua 33/1 Strawberry CA 158",
+    "strain": "Strawberry Diesel #158",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3816,8 +3816,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 160/1 IND",
-    "strain": "Demo Kush 160",
+    "product": "Tilray 34/1 Pink CA 159",
+    "strain": "Pink Kush #159",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3840,20 +3840,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 161/1 IND",
-    "strain": "Demo Kush 161",
+    "product": "Enua 25/1 Strawberry CA 160",
+    "strain": "Strawberry Diesel #160",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3864,8 +3864,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 162/1 IND",
-    "strain": "Demo Kush 162",
+    "product": "Tilray 26/1 Pink CA 161",
+    "strain": "Pink Kush #161",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3888,20 +3888,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 163/1 IND",
-    "strain": "Demo Kush 163",
+    "product": "Enua 27/1 Strawberry CA 162",
+    "strain": "Strawberry Diesel #162",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -3912,8 +3912,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 164/1 IND",
-    "strain": "Demo Kush 164",
+    "product": "Tilray 28/1 Pink CA 163",
+    "strain": "Pink Kush #163",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3936,22 +3936,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 165/1 IND",
-    "strain": "Demo Kush 165",
+    "product": "Enua 29/1 Strawberry CA 164",
+    "strain": "Strawberry Diesel #164",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -3960,8 +3960,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 166/1 IND",
-    "strain": "Demo Kush 166",
+    "product": "Tilray 30/1 Pink CA 165",
+    "strain": "Pink Kush #165",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -3984,20 +3984,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 167/1 IND",
-    "strain": "Demo Kush 167",
+    "product": "Enua 31/1 Strawberry CA 166",
+    "strain": "Strawberry Diesel #166",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4008,8 +4008,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 168/1 IND",
-    "strain": "Demo Kush 168",
+    "product": "Tilray 32/1 Pink CA 167",
+    "strain": "Pink Kush #167",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4032,20 +4032,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 169/1 IND",
-    "strain": "Demo Kush 169",
+    "product": "Enua 33/1 Strawberry CA 168",
+    "strain": "Strawberry Diesel #168",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4056,8 +4056,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 170/1 IND",
-    "strain": "Demo Kush 170",
+    "product": "Tilray 34/1 Pink CA 169",
+    "strain": "Pink Kush #169",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4080,20 +4080,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 171/1 IND",
-    "strain": "Demo Kush 171",
+    "product": "Enua 25/1 Strawberry CA 170",
+    "strain": "Strawberry Diesel #170",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4104,8 +4104,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 172/1 IND",
-    "strain": "Demo Kush 172",
+    "product": "Tilray 26/1 Pink CA 171",
+    "strain": "Pink Kush #171",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4128,20 +4128,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 173/1 IND",
-    "strain": "Demo Kush 173",
+    "product": "Enua 27/1 Strawberry CA 172",
+    "strain": "Strawberry Diesel #172",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4152,8 +4152,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 174/1 IND",
-    "strain": "Demo Kush 174",
+    "product": "Tilray 28/1 Pink CA 173",
+    "strain": "Pink Kush #173",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4176,20 +4176,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 175/1 IND",
-    "strain": "Demo Kush 175",
+    "product": "Enua 29/1 Strawberry CA 174",
+    "strain": "Strawberry Diesel #174",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4200,8 +4200,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 176/1 IND",
-    "strain": "Demo Kush 176",
+    "product": "Tilray 30/1 Pink CA 175",
+    "strain": "Pink Kush #175",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4224,20 +4224,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 177/1 IND",
-    "strain": "Demo Kush 177",
+    "product": "Enua 31/1 Strawberry CA 176",
+    "strain": "Strawberry Diesel #176",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4248,8 +4248,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 178/1 IND",
-    "strain": "Demo Kush 178",
+    "product": "Tilray 32/1 Pink CA 177",
+    "strain": "Pink Kush #177",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4272,20 +4272,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 179/1 IND",
-    "strain": "Demo Kush 179",
+    "product": "Enua 33/1 Strawberry CA 178",
+    "strain": "Strawberry Diesel #178",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4296,8 +4296,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 180/1 IND",
-    "strain": "Demo Kush 180",
+    "product": "Tilray 34/1 Pink CA 179",
+    "strain": "Pink Kush #179",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4320,20 +4320,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 181/1 IND",
-    "strain": "Demo Kush 181",
+    "product": "Enua 25/1 Strawberry CA 180",
+    "strain": "Strawberry Diesel #180",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4344,8 +4344,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 182/1 IND",
-    "strain": "Demo Kush 182",
+    "product": "Tilray 26/1 Pink CA 181",
+    "strain": "Pink Kush #181",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4368,20 +4368,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 183/1 IND",
-    "strain": "Demo Kush 183",
+    "product": "Enua 27/1 Strawberry CA 182",
+    "strain": "Strawberry Diesel #182",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4392,8 +4392,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 184/1 IND",
-    "strain": "Demo Kush 184",
+    "product": "Tilray 28/1 Pink CA 183",
+    "strain": "Pink Kush #183",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4416,20 +4416,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 185/1 IND",
-    "strain": "Demo Kush 185",
+    "product": "Enua 29/1 Strawberry CA 184",
+    "strain": "Strawberry Diesel #184",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4440,8 +4440,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 186/1 IND",
-    "strain": "Demo Kush 186",
+    "product": "Tilray 30/1 Pink CA 185",
+    "strain": "Pink Kush #185",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4464,20 +4464,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 187/1 IND",
-    "strain": "Demo Kush 187",
+    "product": "Enua 31/1 Strawberry CA 186",
+    "strain": "Strawberry Diesel #186",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4488,8 +4488,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 188/1 IND",
-    "strain": "Demo Kush 188",
+    "product": "Tilray 32/1 Pink CA 187",
+    "strain": "Pink Kush #187",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4512,22 +4512,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 189/1 IND",
-    "strain": "Demo Kush 189",
+    "product": "Enua 33/1 Strawberry CA 188",
+    "strain": "Strawberry Diesel #188",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -4536,8 +4536,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 190/1 IND",
-    "strain": "Demo Kush 190",
+    "product": "Tilray 34/1 Pink CA 189",
+    "strain": "Pink Kush #189",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4560,20 +4560,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 191/1 IND",
-    "strain": "Demo Kush 191",
+    "product": "Enua 25/1 Strawberry CA 190",
+    "strain": "Strawberry Diesel #190",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4584,8 +4584,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 192/1 IND",
-    "strain": "Demo Kush 192",
+    "product": "Tilray 26/1 Pink CA 191",
+    "strain": "Pink Kush #191",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4608,20 +4608,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 193/1 IND",
-    "strain": "Demo Kush 193",
+    "product": "Enua 27/1 Strawberry CA 192",
+    "strain": "Strawberry Diesel #192",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4632,8 +4632,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 194/1 IND",
-    "strain": "Demo Kush 194",
+    "product": "Tilray 28/1 Pink CA 193",
+    "strain": "Pink Kush #193",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4656,20 +4656,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 195/1 IND",
-    "strain": "Demo Kush 195",
+    "product": "Enua 29/1 Strawberry CA 194",
+    "strain": "Strawberry Diesel #194",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4680,8 +4680,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 196/1 IND",
-    "strain": "Demo Kush 196",
+    "product": "Tilray 30/1 Pink CA 195",
+    "strain": "Pink Kush #195",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4704,20 +4704,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 197/1 IND",
-    "strain": "Demo Kush 197",
+    "product": "Enua 31/1 Strawberry CA 196",
+    "strain": "Strawberry Diesel #196",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4728,8 +4728,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 198/1 IND",
-    "strain": "Demo Kush 198",
+    "product": "Tilray 32/1 Pink CA 197",
+    "strain": "Pink Kush #197",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4752,20 +4752,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 199/1 IND",
-    "strain": "Demo Kush 199",
+    "product": "Enua 33/1 Strawberry CA 198",
+    "strain": "Strawberry Diesel #198",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4776,8 +4776,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 200/1 IND",
-    "strain": "Demo Kush 200",
+    "product": "Tilray 34/1 Pink CA 199",
+    "strain": "Pink Kush #199",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4800,20 +4800,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 201/1 IND",
-    "strain": "Demo Kush 201",
+    "product": "Enua 25/1 Strawberry CA 200",
+    "strain": "Strawberry Diesel #200",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4824,8 +4824,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 202/1 IND",
-    "strain": "Demo Kush 202",
+    "product": "Tilray 26/1 Pink CA 201",
+    "strain": "Pink Kush #201",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4848,22 +4848,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 203/1 IND",
-    "strain": "Demo Kush 203",
+    "product": "Enua 27/1 Strawberry CA 202",
+    "strain": "Strawberry Diesel #202",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -4872,8 +4872,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 204/1 IND",
-    "strain": "Demo Kush 204",
+    "product": "Tilray 28/1 Pink CA 203",
+    "strain": "Pink Kush #203",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4896,20 +4896,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 205/1 IND",
-    "strain": "Demo Kush 205",
+    "product": "Enua 29/1 Strawberry CA 204",
+    "strain": "Strawberry Diesel #204",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4920,8 +4920,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 206/1 IND",
-    "strain": "Demo Kush 206",
+    "product": "Tilray 30/1 Pink CA 205",
+    "strain": "Pink Kush #205",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4944,20 +4944,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 207/1 IND",
-    "strain": "Demo Kush 207",
+    "product": "Enua 31/1 Strawberry CA 206",
+    "strain": "Strawberry Diesel #206",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -4968,8 +4968,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 208/1 IND",
-    "strain": "Demo Kush 208",
+    "product": "Tilray 32/1 Pink CA 207",
+    "strain": "Pink Kush #207",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -4992,20 +4992,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 209/1 IND",
-    "strain": "Demo Kush 209",
+    "product": "Enua 33/1 Strawberry CA 208",
+    "strain": "Strawberry Diesel #208",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -5016,8 +5016,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 210/1 IND",
-    "strain": "Demo Kush 210",
+    "product": "Tilray 34/1 Pink CA 209",
+    "strain": "Pink Kush #209",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5040,20 +5040,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 211/1 IND",
-    "strain": "Demo Kush 211",
+    "product": "Enua 25/1 Strawberry CA 210",
+    "strain": "Strawberry Diesel #210",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -5064,8 +5064,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 212/1 IND",
-    "strain": "Demo Kush 212",
+    "product": "Tilray 26/1 Pink CA 211",
+    "strain": "Pink Kush #211",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5088,22 +5088,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 213/1 IND",
-    "strain": "Demo Kush 213",
+    "product": "Enua 27/1 Strawberry CA 212",
+    "strain": "Strawberry Diesel #212",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -5112,8 +5112,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 214/1 IND",
-    "strain": "Demo Kush 214",
+    "product": "Tilray 28/1 Pink CA 213",
+    "strain": "Pink Kush #213",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5136,20 +5136,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 215/1 IND",
-    "strain": "Demo Kush 215",
+    "product": "Enua 29/1 Strawberry CA 214",
+    "strain": "Strawberry Diesel #214",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -5160,8 +5160,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 216/1 IND",
-    "strain": "Demo Kush 216",
+    "product": "Tilray 30/1 Pink CA 215",
+    "strain": "Pink Kush #215",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5184,20 +5184,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 217/1 IND",
-    "strain": "Demo Kush 217",
+    "product": "Enua 31/1 Strawberry CA 216",
+    "strain": "Strawberry Diesel #216",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -5208,8 +5208,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 218/1 IND",
-    "strain": "Demo Kush 218",
+    "product": "Tilray 32/1 Pink CA 217",
+    "strain": "Pink Kush #217",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5232,20 +5232,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 219/1 IND",
-    "strain": "Demo Kush 219",
+    "product": "Enua 33/1 Strawberry CA 218",
+    "strain": "Strawberry Diesel #218",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -5256,8 +5256,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 220/1 IND",
-    "strain": "Demo Kush 220",
+    "product": "Tilray 34/1 Pink CA 219",
+    "strain": "Pink Kush #219",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5280,20 +5280,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 221/1 IND",
-    "strain": "Demo Kush 221",
+    "product": "Enua 25/1 Strawberry CA 220",
+    "strain": "Strawberry Diesel #220",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -5304,8 +5304,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 222/1 IND",
-    "strain": "Demo Kush 222",
+    "product": "Tilray 26/1 Pink CA 221",
+    "strain": "Pink Kush #221",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5328,20 +5328,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 223/1 IND",
-    "strain": "Demo Kush 223",
+    "product": "Enua 27/1 Strawberry CA 222",
+    "strain": "Strawberry Diesel #222",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -5352,8 +5352,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 224/1 IND",
-    "strain": "Demo Kush 224",
+    "product": "Tilray 28/1 Pink CA 223",
+    "strain": "Pink Kush #223",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5376,20 +5376,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 225/1 IND",
-    "strain": "Demo Kush 225",
+    "product": "Enua 29/1 Strawberry CA 224",
+    "strain": "Strawberry Diesel #224",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -5400,8 +5400,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 226/1 IND",
-    "strain": "Demo Kush 226",
+    "product": "Tilray 30/1 Pink CA 225",
+    "strain": "Pink Kush #225",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5424,22 +5424,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 227/1 IND",
-    "strain": "Demo Kush 227",
+    "product": "Enua 31/1 Strawberry CA 226",
+    "strain": "Strawberry Diesel #226",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -5448,8 +5448,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 228/1 IND",
-    "strain": "Demo Kush 228",
+    "product": "Tilray 32/1 Pink CA 227",
+    "strain": "Pink Kush #227",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5472,20 +5472,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 229/1 IND",
-    "strain": "Demo Kush 229",
+    "product": "Enua 33/1 Strawberry CA 228",
+    "strain": "Strawberry Diesel #228",
     "terpene": [
-      {
-        "name": "Caryophyllene",
-        "boiling": 119,
-        "flavor": "würzig",
-        "effect": "entspannend"
-      },
       {
         "name": "Limonene",
         "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
+        "name": "Caryophyllene",
+        "boiling": 119,
+        "flavor": "würzig, diesel",
+        "effect": "entspannend"
       },
       {
         "name": "Myrcene",
@@ -5496,8 +5496,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 230/1 IND",
-    "strain": "Demo Kush 230",
+    "product": "Tilray 34/1 Pink CA 229",
+    "strain": "Pink Kush #229",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5520,22 +5520,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 231/1 IND",
-    "strain": "Demo Kush 231",
+    "product": "Enua 25/1 Strawberry CA 230",
+    "strain": "Strawberry Diesel #230",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -5544,8 +5544,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 232/1 IND",
-    "strain": "Demo Kush 232",
+    "product": "Tilray 26/1 Pink CA 231",
+    "strain": "Pink Kush #231",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5568,20 +5568,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 233/1 IND",
-    "strain": "Demo Kush 233",
+    "product": "Enua 27/1 Strawberry CA 232",
+    "strain": "Strawberry Diesel #232",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -5592,8 +5592,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 234/1 IND",
-    "strain": "Demo Kush 234",
+    "product": "Tilray 28/1 Pink CA 233",
+    "strain": "Pink Kush #233",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5616,20 +5616,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 235/1 IND",
-    "strain": "Demo Kush 235",
+    "product": "Enua 29/1 Strawberry CA 234",
+    "strain": "Strawberry Diesel #234",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -5640,8 +5640,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 236/1 IND",
-    "strain": "Demo Kush 236",
+    "product": "Tilray 30/1 Pink CA 235",
+    "strain": "Pink Kush #235",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5664,20 +5664,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 237/1 IND",
-    "strain": "Demo Kush 237",
+    "product": "Enua 31/1 Strawberry CA 236",
+    "strain": "Strawberry Diesel #236",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -5688,8 +5688,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 238/1 IND",
-    "strain": "Demo Kush 238",
+    "product": "Tilray 32/1 Pink CA 237",
+    "strain": "Pink Kush #237",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5712,20 +5712,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 239/1 IND",
-    "strain": "Demo Kush 239",
+    "product": "Enua 33/1 Strawberry CA 238",
+    "strain": "Strawberry Diesel #238",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -5736,8 +5736,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 240/1 IND",
-    "strain": "Demo Kush 240",
+    "product": "Tilray 34/1 Pink CA 239",
+    "strain": "Pink Kush #239",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5760,20 +5760,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 241/1 IND",
-    "strain": "Demo Kush 241",
+    "product": "Enua 25/1 Strawberry CA 240",
+    "strain": "Strawberry Diesel #240",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -5784,8 +5784,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 242/1 IND",
-    "strain": "Demo Kush 242",
+    "product": "Tilray 26/1 Pink CA 241",
+    "strain": "Pink Kush #241",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5808,20 +5808,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 243/1 IND",
-    "strain": "Demo Kush 243",
+    "product": "Enua 27/1 Strawberry CA 242",
+    "strain": "Strawberry Diesel #242",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -5832,8 +5832,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 244/1 IND",
-    "strain": "Demo Kush 244",
+    "product": "Tilray 28/1 Pink CA 243",
+    "strain": "Pink Kush #243",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5856,20 +5856,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 245/1 IND",
-    "strain": "Demo Kush 245",
+    "product": "Enua 29/1 Strawberry CA 244",
+    "strain": "Strawberry Diesel #244",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -5880,8 +5880,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 246/1 IND",
-    "strain": "Demo Kush 246",
+    "product": "Tilray 30/1 Pink CA 245",
+    "strain": "Pink Kush #245",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5904,22 +5904,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 247/1 IND",
-    "strain": "Demo Kush 247",
+    "product": "Enua 31/1 Strawberry CA 246",
+    "strain": "Strawberry Diesel #246",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -5928,8 +5928,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 248/1 IND",
-    "strain": "Demo Kush 248",
+    "product": "Tilray 32/1 Pink CA 247",
+    "strain": "Pink Kush #247",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -5952,20 +5952,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 249/1 IND",
-    "strain": "Demo Kush 249",
+    "product": "Enua 33/1 Strawberry CA 248",
+    "strain": "Strawberry Diesel #248",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -5976,8 +5976,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 250/1 IND",
-    "strain": "Demo Kush 250",
+    "product": "Tilray 34/1 Pink CA 249",
+    "strain": "Pink Kush #249",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6000,20 +6000,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 251/1 IND",
-    "strain": "Demo Kush 251",
+    "product": "Enua 25/1 Strawberry CA 250",
+    "strain": "Strawberry Diesel #250",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6024,8 +6024,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 252/1 IND",
-    "strain": "Demo Kush 252",
+    "product": "Tilray 26/1 Pink CA 251",
+    "strain": "Pink Kush #251",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6048,20 +6048,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 253/1 IND",
-    "strain": "Demo Kush 253",
+    "product": "Enua 27/1 Strawberry CA 252",
+    "strain": "Strawberry Diesel #252",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6072,8 +6072,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 254/1 IND",
-    "strain": "Demo Kush 254",
+    "product": "Tilray 28/1 Pink CA 253",
+    "strain": "Pink Kush #253",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6096,20 +6096,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 255/1 IND",
-    "strain": "Demo Kush 255",
+    "product": "Enua 29/1 Strawberry CA 254",
+    "strain": "Strawberry Diesel #254",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6120,8 +6120,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 256/1 IND",
-    "strain": "Demo Kush 256",
+    "product": "Tilray 30/1 Pink CA 255",
+    "strain": "Pink Kush #255",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6144,20 +6144,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 257/1 IND",
-    "strain": "Demo Kush 257",
+    "product": "Enua 31/1 Strawberry CA 256",
+    "strain": "Strawberry Diesel #256",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6168,8 +6168,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 258/1 IND",
-    "strain": "Demo Kush 258",
+    "product": "Tilray 32/1 Pink CA 257",
+    "strain": "Pink Kush #257",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6192,20 +6192,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 259/1 IND",
-    "strain": "Demo Kush 259",
+    "product": "Enua 33/1 Strawberry CA 258",
+    "strain": "Strawberry Diesel #258",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6216,8 +6216,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 260/1 IND",
-    "strain": "Demo Kush 260",
+    "product": "Tilray 34/1 Pink CA 259",
+    "strain": "Pink Kush #259",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6240,20 +6240,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 261/1 IND",
-    "strain": "Demo Kush 261",
+    "product": "Enua 25/1 Strawberry CA 260",
+    "strain": "Strawberry Diesel #260",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6264,8 +6264,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 262/1 IND",
-    "strain": "Demo Kush 262",
+    "product": "Tilray 26/1 Pink CA 261",
+    "strain": "Pink Kush #261",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6288,22 +6288,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 263/1 IND",
-    "strain": "Demo Kush 263",
+    "product": "Enua 27/1 Strawberry CA 262",
+    "strain": "Strawberry Diesel #262",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -6312,8 +6312,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 264/1 IND",
-    "strain": "Demo Kush 264",
+    "product": "Tilray 28/1 Pink CA 263",
+    "strain": "Pink Kush #263",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6336,20 +6336,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 265/1 IND",
-    "strain": "Demo Kush 265",
+    "product": "Enua 29/1 Strawberry CA 264",
+    "strain": "Strawberry Diesel #264",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6360,8 +6360,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 266/1 IND",
-    "strain": "Demo Kush 266",
+    "product": "Tilray 30/1 Pink CA 265",
+    "strain": "Pink Kush #265",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6384,20 +6384,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 267/1 IND",
-    "strain": "Demo Kush 267",
+    "product": "Enua 31/1 Strawberry CA 266",
+    "strain": "Strawberry Diesel #266",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6408,8 +6408,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 268/1 IND",
-    "strain": "Demo Kush 268",
+    "product": "Tilray 32/1 Pink CA 267",
+    "strain": "Pink Kush #267",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6432,20 +6432,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 269/1 IND",
-    "strain": "Demo Kush 269",
+    "product": "Enua 33/1 Strawberry CA 268",
+    "strain": "Strawberry Diesel #268",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6456,8 +6456,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 270/1 IND",
-    "strain": "Demo Kush 270",
+    "product": "Tilray 34/1 Pink CA 269",
+    "strain": "Pink Kush #269",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6480,20 +6480,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 271/1 IND",
-    "strain": "Demo Kush 271",
+    "product": "Enua 25/1 Strawberry CA 270",
+    "strain": "Strawberry Diesel #270",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6504,8 +6504,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 272/1 IND",
-    "strain": "Demo Kush 272",
+    "product": "Tilray 26/1 Pink CA 271",
+    "strain": "Pink Kush #271",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6528,20 +6528,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 273/1 IND",
-    "strain": "Demo Kush 273",
+    "product": "Enua 27/1 Strawberry CA 272",
+    "strain": "Strawberry Diesel #272",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6552,8 +6552,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 274/1 IND",
-    "strain": "Demo Kush 274",
+    "product": "Tilray 28/1 Pink CA 273",
+    "strain": "Pink Kush #273",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6576,20 +6576,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 275/1 IND",
-    "strain": "Demo Kush 275",
+    "product": "Enua 29/1 Strawberry CA 274",
+    "strain": "Strawberry Diesel #274",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6600,8 +6600,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 276/1 IND",
-    "strain": "Demo Kush 276",
+    "product": "Tilray 30/1 Pink CA 275",
+    "strain": "Pink Kush #275",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6624,20 +6624,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 277/1 IND",
-    "strain": "Demo Kush 277",
+    "product": "Enua 31/1 Strawberry CA 276",
+    "strain": "Strawberry Diesel #276",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6648,8 +6648,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 278/1 IND",
-    "strain": "Demo Kush 278",
+    "product": "Tilray 32/1 Pink CA 277",
+    "strain": "Pink Kush #277",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6672,20 +6672,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 279/1 IND",
-    "strain": "Demo Kush 279",
+    "product": "Enua 33/1 Strawberry CA 278",
+    "strain": "Strawberry Diesel #278",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6696,8 +6696,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 280/1 IND",
-    "strain": "Demo Kush 280",
+    "product": "Tilray 34/1 Pink CA 279",
+    "strain": "Pink Kush #279",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6720,20 +6720,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 281/1 IND",
-    "strain": "Demo Kush 281",
+    "product": "Enua 25/1 Strawberry CA 280",
+    "strain": "Strawberry Diesel #280",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6744,8 +6744,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 282/1 IND",
-    "strain": "Demo Kush 282",
+    "product": "Tilray 26/1 Pink CA 281",
+    "strain": "Pink Kush #281",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6768,20 +6768,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 283/1 IND",
-    "strain": "Demo Kush 283",
+    "product": "Enua 27/1 Strawberry CA 282",
+    "strain": "Strawberry Diesel #282",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6792,8 +6792,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 284/1 IND",
-    "strain": "Demo Kush 284",
+    "product": "Tilray 28/1 Pink CA 283",
+    "strain": "Pink Kush #283",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6816,22 +6816,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 285/1 IND",
-    "strain": "Demo Kush 285",
+    "product": "Enua 29/1 Strawberry CA 284",
+    "strain": "Strawberry Diesel #284",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -6840,8 +6840,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 286/1 IND",
-    "strain": "Demo Kush 286",
+    "product": "Tilray 30/1 Pink CA 285",
+    "strain": "Pink Kush #285",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6864,20 +6864,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 287/1 IND",
-    "strain": "Demo Kush 287",
+    "product": "Enua 31/1 Strawberry CA 286",
+    "strain": "Strawberry Diesel #286",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6888,8 +6888,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 288/1 IND",
-    "strain": "Demo Kush 288",
+    "product": "Tilray 32/1 Pink CA 287",
+    "strain": "Pink Kush #287",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6912,20 +6912,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 289/1 IND",
-    "strain": "Demo Kush 289",
+    "product": "Enua 33/1 Strawberry CA 288",
+    "strain": "Strawberry Diesel #288",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6936,8 +6936,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 290/1 IND",
-    "strain": "Demo Kush 290",
+    "product": "Tilray 34/1 Pink CA 289",
+    "strain": "Pink Kush #289",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -6960,20 +6960,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 291/1 IND",
-    "strain": "Demo Kush 291",
+    "product": "Enua 25/1 Strawberry CA 290",
+    "strain": "Strawberry Diesel #290",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -6984,8 +6984,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 292/1 IND",
-    "strain": "Demo Kush 292",
+    "product": "Tilray 26/1 Pink CA 291",
+    "strain": "Pink Kush #291",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7008,20 +7008,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 293/1 IND",
-    "strain": "Demo Kush 293",
+    "product": "Enua 27/1 Strawberry CA 292",
+    "strain": "Strawberry Diesel #292",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7032,8 +7032,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 294/1 IND",
-    "strain": "Demo Kush 294",
+    "product": "Tilray 28/1 Pink CA 293",
+    "strain": "Pink Kush #293",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7056,20 +7056,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 295/1 IND",
-    "strain": "Demo Kush 295",
+    "product": "Enua 29/1 Strawberry CA 294",
+    "strain": "Strawberry Diesel #294",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7080,8 +7080,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 296/1 IND",
-    "strain": "Demo Kush 296",
+    "product": "Tilray 30/1 Pink CA 295",
+    "strain": "Pink Kush #295",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7104,20 +7104,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 297/1 IND",
-    "strain": "Demo Kush 297",
+    "product": "Enua 31/1 Strawberry CA 296",
+    "strain": "Strawberry Diesel #296",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7128,8 +7128,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 298/1 IND",
-    "strain": "Demo Kush 298",
+    "product": "Tilray 32/1 Pink CA 297",
+    "strain": "Pink Kush #297",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7152,20 +7152,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 299/1 IND",
-    "strain": "Demo Kush 299",
+    "product": "Enua 33/1 Strawberry CA 298",
+    "strain": "Strawberry Diesel #298",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7176,8 +7176,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 300/1 IND",
-    "strain": "Demo Kush 300",
+    "product": "Tilray 34/1 Pink CA 299",
+    "strain": "Pink Kush #299",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7200,22 +7200,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 301/1 IND",
-    "strain": "Demo Kush 301",
+    "product": "Enua 25/1 Strawberry CA 300",
+    "strain": "Strawberry Diesel #300",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -7224,8 +7224,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 302/1 IND",
-    "strain": "Demo Kush 302",
+    "product": "Tilray 26/1 Pink CA 301",
+    "strain": "Pink Kush #301",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7248,20 +7248,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 303/1 IND",
-    "strain": "Demo Kush 303",
+    "product": "Enua 27/1 Strawberry CA 302",
+    "strain": "Strawberry Diesel #302",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7272,8 +7272,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 304/1 IND",
-    "strain": "Demo Kush 304",
+    "product": "Tilray 28/1 Pink CA 303",
+    "strain": "Pink Kush #303",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7296,20 +7296,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 305/1 IND",
-    "strain": "Demo Kush 305",
+    "product": "Enua 29/1 Strawberry CA 304",
+    "strain": "Strawberry Diesel #304",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7320,8 +7320,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 306/1 IND",
-    "strain": "Demo Kush 306",
+    "product": "Tilray 30/1 Pink CA 305",
+    "strain": "Pink Kush #305",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7344,20 +7344,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 307/1 IND",
-    "strain": "Demo Kush 307",
+    "product": "Enua 31/1 Strawberry CA 306",
+    "strain": "Strawberry Diesel #306",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7368,8 +7368,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 308/1 IND",
-    "strain": "Demo Kush 308",
+    "product": "Tilray 32/1 Pink CA 307",
+    "strain": "Pink Kush #307",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7392,20 +7392,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 309/1 IND",
-    "strain": "Demo Kush 309",
+    "product": "Enua 33/1 Strawberry CA 308",
+    "strain": "Strawberry Diesel #308",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7416,8 +7416,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 310/1 IND",
-    "strain": "Demo Kush 310",
+    "product": "Tilray 34/1 Pink CA 309",
+    "strain": "Pink Kush #309",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7440,20 +7440,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 311/1 IND",
-    "strain": "Demo Kush 311",
+    "product": "Enua 25/1 Strawberry CA 310",
+    "strain": "Strawberry Diesel #310",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7464,8 +7464,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 312/1 IND",
-    "strain": "Demo Kush 312",
+    "product": "Tilray 26/1 Pink CA 311",
+    "strain": "Pink Kush #311",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7488,20 +7488,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 313/1 IND",
-    "strain": "Demo Kush 313",
+    "product": "Enua 27/1 Strawberry CA 312",
+    "strain": "Strawberry Diesel #312",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7512,8 +7512,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 314/1 IND",
-    "strain": "Demo Kush 314",
+    "product": "Tilray 28/1 Pink CA 313",
+    "strain": "Pink Kush #313",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7536,20 +7536,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 315/1 IND",
-    "strain": "Demo Kush 315",
+    "product": "Enua 29/1 Strawberry CA 314",
+    "strain": "Strawberry Diesel #314",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7560,8 +7560,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 316/1 IND",
-    "strain": "Demo Kush 316",
+    "product": "Tilray 30/1 Pink CA 315",
+    "strain": "Pink Kush #315",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7584,22 +7584,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 317/1 IND",
-    "strain": "Demo Kush 317",
+    "product": "Enua 31/1 Strawberry CA 316",
+    "strain": "Strawberry Diesel #316",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -7608,8 +7608,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 318/1 IND",
-    "strain": "Demo Kush 318",
+    "product": "Tilray 32/1 Pink CA 317",
+    "strain": "Pink Kush #317",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7632,20 +7632,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 319/1 IND",
-    "strain": "Demo Kush 319",
+    "product": "Enua 33/1 Strawberry CA 318",
+    "strain": "Strawberry Diesel #318",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7656,8 +7656,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 320/1 IND",
-    "strain": "Demo Kush 320",
+    "product": "Tilray 34/1 Pink CA 319",
+    "strain": "Pink Kush #319",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7680,20 +7680,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 321/1 IND",
-    "strain": "Demo Kush 321",
+    "product": "Enua 25/1 Strawberry CA 320",
+    "strain": "Strawberry Diesel #320",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7704,8 +7704,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 322/1 IND",
-    "strain": "Demo Kush 322",
+    "product": "Tilray 26/1 Pink CA 321",
+    "strain": "Pink Kush #321",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7728,22 +7728,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 323/1 IND",
-    "strain": "Demo Kush 323",
+    "product": "Enua 27/1 Strawberry CA 322",
+    "strain": "Strawberry Diesel #322",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -7752,8 +7752,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 324/1 IND",
-    "strain": "Demo Kush 324",
+    "product": "Tilray 28/1 Pink CA 323",
+    "strain": "Pink Kush #323",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7776,20 +7776,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 325/1 IND",
-    "strain": "Demo Kush 325",
+    "product": "Enua 29/1 Strawberry CA 324",
+    "strain": "Strawberry Diesel #324",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7800,8 +7800,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 326/1 IND",
-    "strain": "Demo Kush 326",
+    "product": "Tilray 30/1 Pink CA 325",
+    "strain": "Pink Kush #325",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7824,20 +7824,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 327/1 IND",
-    "strain": "Demo Kush 327",
+    "product": "Enua 31/1 Strawberry CA 326",
+    "strain": "Strawberry Diesel #326",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7848,8 +7848,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 328/1 IND",
-    "strain": "Demo Kush 328",
+    "product": "Tilray 32/1 Pink CA 327",
+    "strain": "Pink Kush #327",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7872,20 +7872,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 329/1 IND",
-    "strain": "Demo Kush 329",
+    "product": "Enua 33/1 Strawberry CA 328",
+    "strain": "Strawberry Diesel #328",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7896,8 +7896,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 330/1 IND",
-    "strain": "Demo Kush 330",
+    "product": "Tilray 34/1 Pink CA 329",
+    "strain": "Pink Kush #329",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7920,20 +7920,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 331/1 IND",
-    "strain": "Demo Kush 331",
+    "product": "Enua 25/1 Strawberry CA 330",
+    "strain": "Strawberry Diesel #330",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7944,8 +7944,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 332/1 IND",
-    "strain": "Demo Kush 332",
+    "product": "Tilray 26/1 Pink CA 331",
+    "strain": "Pink Kush #331",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -7968,20 +7968,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 333/1 IND",
-    "strain": "Demo Kush 333",
+    "product": "Enua 27/1 Strawberry CA 332",
+    "strain": "Strawberry Diesel #332",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -7992,8 +7992,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 334/1 IND",
-    "strain": "Demo Kush 334",
+    "product": "Tilray 28/1 Pink CA 333",
+    "strain": "Pink Kush #333",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8016,20 +8016,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 335/1 IND",
-    "strain": "Demo Kush 335",
+    "product": "Enua 29/1 Strawberry CA 334",
+    "strain": "Strawberry Diesel #334",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8040,8 +8040,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 336/1 IND",
-    "strain": "Demo Kush 336",
+    "product": "Tilray 30/1 Pink CA 335",
+    "strain": "Pink Kush #335",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8064,20 +8064,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 337/1 IND",
-    "strain": "Demo Kush 337",
+    "product": "Enua 31/1 Strawberry CA 336",
+    "strain": "Strawberry Diesel #336",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8088,8 +8088,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 338/1 IND",
-    "strain": "Demo Kush 338",
+    "product": "Tilray 32/1 Pink CA 337",
+    "strain": "Pink Kush #337",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8112,22 +8112,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 339/1 IND",
-    "strain": "Demo Kush 339",
+    "product": "Enua 33/1 Strawberry CA 338",
+    "strain": "Strawberry Diesel #338",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -8136,8 +8136,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 340/1 IND",
-    "strain": "Demo Kush 340",
+    "product": "Tilray 34/1 Pink CA 339",
+    "strain": "Pink Kush #339",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8160,20 +8160,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 341/1 IND",
-    "strain": "Demo Kush 341",
+    "product": "Enua 25/1 Strawberry CA 340",
+    "strain": "Strawberry Diesel #340",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8184,8 +8184,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 342/1 IND",
-    "strain": "Demo Kush 342",
+    "product": "Tilray 26/1 Pink CA 341",
+    "strain": "Pink Kush #341",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8208,20 +8208,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 343/1 IND",
-    "strain": "Demo Kush 343",
+    "product": "Enua 27/1 Strawberry CA 342",
+    "strain": "Strawberry Diesel #342",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8232,8 +8232,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 344/1 IND",
-    "strain": "Demo Kush 344",
+    "product": "Tilray 28/1 Pink CA 343",
+    "strain": "Pink Kush #343",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8256,20 +8256,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 345/1 IND",
-    "strain": "Demo Kush 345",
+    "product": "Enua 29/1 Strawberry CA 344",
+    "strain": "Strawberry Diesel #344",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8280,8 +8280,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 346/1 IND",
-    "strain": "Demo Kush 346",
+    "product": "Tilray 30/1 Pink CA 345",
+    "strain": "Pink Kush #345",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8304,20 +8304,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 347/1 IND",
-    "strain": "Demo Kush 347",
+    "product": "Enua 31/1 Strawberry CA 346",
+    "strain": "Strawberry Diesel #346",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8328,8 +8328,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 348/1 IND",
-    "strain": "Demo Kush 348",
+    "product": "Tilray 32/1 Pink CA 347",
+    "strain": "Pink Kush #347",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8352,20 +8352,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 349/1 IND",
-    "strain": "Demo Kush 349",
+    "product": "Enua 33/1 Strawberry CA 348",
+    "strain": "Strawberry Diesel #348",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8376,8 +8376,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 350/1 IND",
-    "strain": "Demo Kush 350",
+    "product": "Tilray 34/1 Pink CA 349",
+    "strain": "Pink Kush #349",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8400,20 +8400,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 351/1 IND",
-    "strain": "Demo Kush 351",
+    "product": "Enua 25/1 Strawberry CA 350",
+    "strain": "Strawberry Diesel #350",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8424,8 +8424,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 352/1 IND",
-    "strain": "Demo Kush 352",
+    "product": "Tilray 26/1 Pink CA 351",
+    "strain": "Pink Kush #351",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8448,20 +8448,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 353/1 IND",
-    "strain": "Demo Kush 353",
+    "product": "Enua 27/1 Strawberry CA 352",
+    "strain": "Strawberry Diesel #352",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8472,8 +8472,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 354/1 IND",
-    "strain": "Demo Kush 354",
+    "product": "Tilray 28/1 Pink CA 353",
+    "strain": "Pink Kush #353",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8496,22 +8496,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 355/1 IND",
-    "strain": "Demo Kush 355",
+    "product": "Enua 29/1 Strawberry CA 354",
+    "strain": "Strawberry Diesel #354",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -8520,8 +8520,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 356/1 IND",
-    "strain": "Demo Kush 356",
+    "product": "Tilray 30/1 Pink CA 355",
+    "strain": "Pink Kush #355",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8544,20 +8544,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 357/1 IND",
-    "strain": "Demo Kush 357",
+    "product": "Enua 31/1 Strawberry CA 356",
+    "strain": "Strawberry Diesel #356",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8568,8 +8568,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 358/1 IND",
-    "strain": "Demo Kush 358",
+    "product": "Tilray 32/1 Pink CA 357",
+    "strain": "Pink Kush #357",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8592,20 +8592,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 359/1 IND",
-    "strain": "Demo Kush 359",
+    "product": "Enua 33/1 Strawberry CA 358",
+    "strain": "Strawberry Diesel #358",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8616,8 +8616,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 360/1 IND",
-    "strain": "Demo Kush 360",
+    "product": "Tilray 34/1 Pink CA 359",
+    "strain": "Pink Kush #359",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8640,20 +8640,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 361/1 IND",
-    "strain": "Demo Kush 361",
+    "product": "Enua 25/1 Strawberry CA 360",
+    "strain": "Strawberry Diesel #360",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8664,8 +8664,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 362/1 IND",
-    "strain": "Demo Kush 362",
+    "product": "Tilray 26/1 Pink CA 361",
+    "strain": "Pink Kush #361",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8688,20 +8688,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 363/1 IND",
-    "strain": "Demo Kush 363",
+    "product": "Enua 27/1 Strawberry CA 362",
+    "strain": "Strawberry Diesel #362",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8712,8 +8712,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 364/1 IND",
-    "strain": "Demo Kush 364",
+    "product": "Tilray 28/1 Pink CA 363",
+    "strain": "Pink Kush #363",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8736,20 +8736,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 365/1 IND",
-    "strain": "Demo Kush 365",
+    "product": "Enua 29/1 Strawberry CA 364",
+    "strain": "Strawberry Diesel #364",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8760,8 +8760,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 366/1 IND",
-    "strain": "Demo Kush 366",
+    "product": "Tilray 30/1 Pink CA 365",
+    "strain": "Pink Kush #365",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8784,20 +8784,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 367/1 IND",
-    "strain": "Demo Kush 367",
+    "product": "Enua 31/1 Strawberry CA 366",
+    "strain": "Strawberry Diesel #366",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8808,8 +8808,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 368/1 IND",
-    "strain": "Demo Kush 368",
+    "product": "Tilray 32/1 Pink CA 367",
+    "strain": "Pink Kush #367",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8832,20 +8832,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 369/1 IND",
-    "strain": "Demo Kush 369",
+    "product": "Enua 33/1 Strawberry CA 368",
+    "strain": "Strawberry Diesel #368",
     "terpene": [
       {
-        "name": "Caryophyllene",
-        "boiling": 119,
-        "flavor": "würzig",
-        "effect": "entspannend"
-      },
-      {
         "name": "Limonene",
         "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
+        "name": "Caryophyllene",
+        "boiling": 119,
+        "flavor": "würzig, diesel",
+        "effect": "entspannend"
       },
       {
         "name": "Myrcene",
@@ -8856,8 +8856,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 370/1 IND",
-    "strain": "Demo Kush 370",
+    "product": "Tilray 34/1 Pink CA 369",
+    "strain": "Pink Kush #369",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8880,20 +8880,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 371/1 IND",
-    "strain": "Demo Kush 371",
+    "product": "Enua 25/1 Strawberry CA 370",
+    "strain": "Strawberry Diesel #370",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8904,8 +8904,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 372/1 IND",
-    "strain": "Demo Kush 372",
+    "product": "Tilray 26/1 Pink CA 371",
+    "strain": "Pink Kush #371",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8928,20 +8928,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 373/1 IND",
-    "strain": "Demo Kush 373",
+    "product": "Enua 27/1 Strawberry CA 372",
+    "strain": "Strawberry Diesel #372",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -8952,8 +8952,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 374/1 IND",
-    "strain": "Demo Kush 374",
+    "product": "Tilray 28/1 Pink CA 373",
+    "strain": "Pink Kush #373",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -8976,20 +8976,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 375/1 IND",
-    "strain": "Demo Kush 375",
+    "product": "Enua 29/1 Strawberry CA 374",
+    "strain": "Strawberry Diesel #374",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9000,8 +9000,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 376/1 IND",
-    "strain": "Demo Kush 376",
+    "product": "Tilray 30/1 Pink CA 375",
+    "strain": "Pink Kush #375",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9024,20 +9024,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 377/1 IND",
-    "strain": "Demo Kush 377",
+    "product": "Enua 31/1 Strawberry CA 376",
+    "strain": "Strawberry Diesel #376",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9048,8 +9048,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 378/1 IND",
-    "strain": "Demo Kush 378",
+    "product": "Tilray 32/1 Pink CA 377",
+    "strain": "Pink Kush #377",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9072,20 +9072,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 379/1 IND",
-    "strain": "Demo Kush 379",
+    "product": "Enua 33/1 Strawberry CA 378",
+    "strain": "Strawberry Diesel #378",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9096,8 +9096,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 380/1 IND",
-    "strain": "Demo Kush 380",
+    "product": "Tilray 34/1 Pink CA 379",
+    "strain": "Pink Kush #379",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9120,22 +9120,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 381/1 IND",
-    "strain": "Demo Kush 381",
+    "product": "Enua 25/1 Strawberry CA 380",
+    "strain": "Strawberry Diesel #380",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -9144,8 +9144,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 382/1 IND",
-    "strain": "Demo Kush 382",
+    "product": "Tilray 26/1 Pink CA 381",
+    "strain": "Pink Kush #381",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9168,20 +9168,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 383/1 IND",
-    "strain": "Demo Kush 383",
+    "product": "Enua 27/1 Strawberry CA 382",
+    "strain": "Strawberry Diesel #382",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9192,8 +9192,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 384/1 IND",
-    "strain": "Demo Kush 384",
+    "product": "Tilray 28/1 Pink CA 383",
+    "strain": "Pink Kush #383",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9216,20 +9216,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 385/1 IND",
-    "strain": "Demo Kush 385",
+    "product": "Enua 29/1 Strawberry CA 384",
+    "strain": "Strawberry Diesel #384",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9240,8 +9240,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 386/1 IND",
-    "strain": "Demo Kush 386",
+    "product": "Tilray 30/1 Pink CA 385",
+    "strain": "Pink Kush #385",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9264,20 +9264,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 387/1 IND",
-    "strain": "Demo Kush 387",
+    "product": "Enua 31/1 Strawberry CA 386",
+    "strain": "Strawberry Diesel #386",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9288,8 +9288,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 388/1 IND",
-    "strain": "Demo Kush 388",
+    "product": "Tilray 32/1 Pink CA 387",
+    "strain": "Pink Kush #387",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9312,20 +9312,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 389/1 IND",
-    "strain": "Demo Kush 389",
+    "product": "Enua 33/1 Strawberry CA 388",
+    "strain": "Strawberry Diesel #388",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9336,8 +9336,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 390/1 IND",
-    "strain": "Demo Kush 390",
+    "product": "Tilray 34/1 Pink CA 389",
+    "strain": "Pink Kush #389",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9360,20 +9360,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 391/1 IND",
-    "strain": "Demo Kush 391",
+    "product": "Enua 25/1 Strawberry CA 390",
+    "strain": "Strawberry Diesel #390",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9384,8 +9384,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 392/1 IND",
-    "strain": "Demo Kush 392",
+    "product": "Tilray 26/1 Pink CA 391",
+    "strain": "Pink Kush #391",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9408,20 +9408,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 393/1 IND",
-    "strain": "Demo Kush 393",
+    "product": "Enua 27/1 Strawberry CA 392",
+    "strain": "Strawberry Diesel #392",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9432,8 +9432,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 394/1 IND",
-    "strain": "Demo Kush 394",
+    "product": "Tilray 28/1 Pink CA 393",
+    "strain": "Pink Kush #393",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9456,20 +9456,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 395/1 IND",
-    "strain": "Demo Kush 395",
+    "product": "Enua 29/1 Strawberry CA 394",
+    "strain": "Strawberry Diesel #394",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9480,8 +9480,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 396/1 IND",
-    "strain": "Demo Kush 396",
+    "product": "Tilray 30/1 Pink CA 395",
+    "strain": "Pink Kush #395",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9504,22 +9504,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 397/1 IND",
-    "strain": "Demo Kush 397",
+    "product": "Enua 31/1 Strawberry CA 396",
+    "strain": "Strawberry Diesel #396",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -9528,8 +9528,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 398/1 IND",
-    "strain": "Demo Kush 398",
+    "product": "Tilray 32/1 Pink CA 397",
+    "strain": "Pink Kush #397",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9552,20 +9552,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 399/1 IND",
-    "strain": "Demo Kush 399",
+    "product": "Enua 33/1 Strawberry CA 398",
+    "strain": "Strawberry Diesel #398",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9576,8 +9576,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 400/1 IND",
-    "strain": "Demo Kush 400",
+    "product": "Tilray 34/1 Pink CA 399",
+    "strain": "Pink Kush #399",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9600,20 +9600,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 401/1 IND",
-    "strain": "Demo Kush 401",
+    "product": "Enua 25/1 Strawberry CA 400",
+    "strain": "Strawberry Diesel #400",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9624,8 +9624,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 402/1 IND",
-    "strain": "Demo Kush 402",
+    "product": "Tilray 26/1 Pink CA 401",
+    "strain": "Pink Kush #401",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9648,20 +9648,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 403/1 IND",
-    "strain": "Demo Kush 403",
+    "product": "Enua 27/1 Strawberry CA 402",
+    "strain": "Strawberry Diesel #402",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9672,8 +9672,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 404/1 IND",
-    "strain": "Demo Kush 404",
+    "product": "Tilray 28/1 Pink CA 403",
+    "strain": "Pink Kush #403",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9696,20 +9696,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 405/1 IND",
-    "strain": "Demo Kush 405",
+    "product": "Enua 29/1 Strawberry CA 404",
+    "strain": "Strawberry Diesel #404",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9720,8 +9720,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 406/1 IND",
-    "strain": "Demo Kush 406",
+    "product": "Tilray 30/1 Pink CA 405",
+    "strain": "Pink Kush #405",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9744,20 +9744,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 407/1 IND",
-    "strain": "Demo Kush 407",
+    "product": "Enua 31/1 Strawberry CA 406",
+    "strain": "Strawberry Diesel #406",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9768,8 +9768,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 408/1 IND",
-    "strain": "Demo Kush 408",
+    "product": "Tilray 32/1 Pink CA 407",
+    "strain": "Pink Kush #407",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9792,20 +9792,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 409/1 IND",
-    "strain": "Demo Kush 409",
+    "product": "Enua 33/1 Strawberry CA 408",
+    "strain": "Strawberry Diesel #408",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9816,8 +9816,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 410/1 IND",
-    "strain": "Demo Kush 410",
+    "product": "Tilray 34/1 Pink CA 409",
+    "strain": "Pink Kush #409",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9840,20 +9840,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 411/1 IND",
-    "strain": "Demo Kush 411",
+    "product": "Enua 25/1 Strawberry CA 410",
+    "strain": "Strawberry Diesel #410",
     "terpene": [
       {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
+      {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9864,8 +9864,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 412/1 IND",
-    "strain": "Demo Kush 412",
+    "product": "Tilray 26/1 Pink CA 411",
+    "strain": "Pink Kush #411",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9888,22 +9888,22 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 413/1 IND",
-    "strain": "Demo Kush 413",
+    "product": "Enua 27/1 Strawberry CA 412",
+    "strain": "Strawberry Diesel #412",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
       },
       {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
-      },
-      {
         "name": "Myrcene",
         "boiling": 166,
         "flavor": "erdig",
@@ -9912,8 +9912,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 414/1 IND",
-    "strain": "Demo Kush 414",
+    "product": "Tilray 28/1 Pink CA 413",
+    "strain": "Pink Kush #413",
     "terpene": [
       {
         "name": "Caryophyllene",
@@ -9936,20 +9936,20 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 415/1 IND",
-    "strain": "Demo Kush 415",
+    "product": "Enua 29/1 Strawberry CA 414",
+    "strain": "Strawberry Diesel #414",
     "terpene": [
+      {
+        "name": "Limonene",
+        "boiling": 176,
+        "flavor": "zitronig, fruchtig",
+        "effect": "anregend"
+      },
       {
         "name": "Caryophyllene",
         "boiling": 119,
-        "flavor": "würzig",
+        "flavor": "würzig, diesel",
         "effect": "entspannend"
-      },
-      {
-        "name": "Limonene",
-        "boiling": 176,
-        "flavor": "zitronig",
-        "effect": "stimmungsaufhellend"
       },
       {
         "name": "Myrcene",
@@ -9960,8 +9960,8 @@ window.strainData = [
     ]
   },
   {
-    "product": "DemoMed 416/1 IND",
-    "strain": "Demo Kush 416",
+    "product": "Tilray 30/1 Pink CA 415",
+    "strain": "Pink Kush #415",
     "terpene": [
       {
         "name": "Caryophyllene",
