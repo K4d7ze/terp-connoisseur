@@ -6,14 +6,44 @@
   <title>🌿 Terp Connoisseur</title>
   <link rel="stylesheet" href="style.css" />
 </head>
-<body>
+<body class="dark">
   <div class="container">
     <h1>🌿 Terp Connoisseur</h1>
-    <button id="modeToggle">🌞</button>
+
+    <!-- Beschreibung -->
+    <p class="subtitle">
+      <strong>A searchable terpene database for cannabis strains &amp; medical products. Built for connoisseurs!</strong><br>
+      <span class="subtext">
+        Explore strain profiles, effects, flavors, and vaporization temps – all in one clean tool.<br>
+        🌿 Strains &nbsp;&nbsp; 🌸 Terpenes &nbsp;&nbsp; 💨 Temps
+      </span>
+    </p>
+
+    <!-- Darkmode-Toggle -->
+    <div class="mode-switch">
+      <label for="modeToggle">🌓 Darkmode:</label>
+      <div id="modeToggle" class="toggle">
+        <span id="sun">🌞</span>
+        <span id="moon">🌙</span>
+      </div>
+    </div>
+
+    <!-- Suchfeld -->
     <input type="text" id="searchInput" placeholder="🔍 Strain oder Produkt eingeben" />
+
+    <!-- Ergebnisse -->
     <div id="results"></div>
+
+    <!-- Fortschritt -->
     <div id="progress"></div>
+
+    <!-- Hinweis -->
+    <p class="disclaimer">
+      🧪 For connoisseurs only. Data is based on public sources and may not be 100% accurate.
+    </p>
   </div>
+
+  <!-- Scripts -->
   <script src="data.js"></script>
   <script src="progress.js"></script>
   <script src="script.js"></script>
